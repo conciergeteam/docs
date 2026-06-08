@@ -45,7 +45,7 @@
         "icon": "layers",
         "expanded": true,
         "pages": [
-          "untitled-page",
+          "broadcasts",
           "platform/quickstart",
           "platform/key-concepts",
           "platform/configuration/settings",
