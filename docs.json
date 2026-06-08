@@ -45,6 +45,7 @@
         "icon": "layers",
         "expanded": true,
         "pages": [
+          "untitled-page",
           "platform/quickstart",
           "platform/key-concepts",
           "platform/configuration/settings",
