@@ -51,7 +51,8 @@
           "platform/configuration/settings",
           "platform/configuration/user-management",
           "platform/lists",
-          "platform/administration/roles-permissions"
+          "platform/administration/roles-permissions",
+          "platform/people"
         ]
       },
       {
