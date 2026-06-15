@@ -45,26 +45,16 @@
         "icon": "layers",
         "expanded": true,
         "pages": [
-          "broadcasts",
-          "platform/quickstart",
-          "platform/key-concepts",
-          "platform/configuration/settings",
-          "platform/configuration/user-management",
+          "platform/people",
           "platform/lists",
-          "platform/administration/roles-permissions",
-          "platform/people"
+          "broadcasts"
         ]
       },
       {
         "group": "Analytics",
         "icon": "chart-bar",
         "expanded": true,
-        "pages": [
-          "analytics/quickstart",
-          "analytics/connect-data",
-          "analytics/dashboards/create-dashboard",
-          "analytics/reports/scheduled-reports"
-        ]
+        "pages": []
       },
       {
         "group": "Integrations",
