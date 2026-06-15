@@ -21,3 +21,21 @@ mode: "frame"
     </Card>
   </div>
 </div>
+
+<div data-product-guide-index className="flex w-full flex-col gap-8 max-w-5xl mx-auto px-4 md:px-8 lg:px-12 py-10 lg:gap-14 lg:py-16">
+  <div className="flex max-w-[540px] flex-col gap-2 self-center text-center">
+    <h1 className="text-[30px] font-medium leading-9 tracking-tight text-gray-900 dark:text-gray-50">
+      Product Guide
+    </h1>
+
+    <p className="text-balance text-base leading-relaxed tracking-tight text-gray-600 dark:text-gray-400">
+      Everything you need to set up, configure, and get the most out of Platform, Analytics, and Integrations tools.
+    </p>
+  </div>
+
+  <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
+    <Card title={<span className="product-guide-feature-card-title">Platform overview</span>} icon="chart-no-axes-gantt" href="/platform" className="product-guide-feature-card" size={64}>
+      <span className="product-guide-feature-card-description">Setup, configure, and manage your workspace.</span>
+    </Card>
+  </div>
+</div>
