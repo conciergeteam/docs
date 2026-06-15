@@ -50,6 +50,7 @@
           "platform/key-concepts",
           "platform/configuration/settings",
           "platform/configuration/user-management",
+          "platform/lists",
           "platform/administration/roles-permissions"
         ]
       },
